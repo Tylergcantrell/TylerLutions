@@ -1,0 +1,31 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-criswell-dev-172953-authRole",
+      "UnauthRoleArn": "arn:aws:iam::130291331610:role/amplify-criswell-dev-172953-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::130291331610:role/amplify-criswell-dev-172953-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-criswell-dev-172953-deployment",
+      "UnauthRoleName": "amplify-criswell-dev-172953-unauthRole",
+      "StackName": "amplify-criswell-dev-172953",
+      "StackId": "arn:aws:cloudformation:us-west-2:130291331610:stack/amplify-criswell-dev-172953/9d261800-6283-11ec-a0f3-0aff3f31d31d",
+      "AmplifyAppId": "dd2a2285ryx7e"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dd2a2285ryx7e",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "criswell3aebc40a": {
+          "userPoolId": "us-west-2_JrursWt0g",
+          "userPoolName": "CriswellSoftwareUserPool",
+          "webClientId": "7dgbs8lr23jms942ntalno81b",
+          "nativeClientId": "7dgbs8lr23jms942ntalno81b"
+        }
+      }
+    }
+  }
+}
