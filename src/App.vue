@@ -1,5 +1,5 @@
 <template>
-  <amplify-authenticator>
+  <amplify-authenticatoro>
     <nav class="navbar navbar-expand-md navbar-dark bg-secondary py-1" aria-label="Fourth navbar example" v-if="this.$route.name !== 'tv' && this.$route.name !== 'condensed' && useremail !== 'criswellgh'">
       <div class="container-fluid">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
